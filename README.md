@@ -1,9 +1,3 @@
-## Hi there, I'm Maheera👋
-- 👩‍💻 I am a Software Engineer sharing about my journey in the advancing world of technology
-- 🎓 I am currently studying Software Engineering at COMSATS University Islamabad, Lahore Campus. 
-- 🔭 I’m currently working on Machine Learning models.
-- 🌱 I’m currently learning about regression models.
-
 ![Maheera's GitHub stats](https://github-readme-stats.vercel.app/api?username=maheera421&show_icons=true&theme=radical)
 # 💫 About Me:
 👩‍💻 I am a Software Engineer sharing about my journey in the advancing world of technology<br>🎓 I am currently studying Software Engineering at COMSATS University Islamabad, Lahore Campus.<br>🔭 I’m currently working on Machine Learning models.<br>🌱 I’m currently learning about regression models
@@ -20,10 +14,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=maheera421&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=maheera421&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=maheera421&theme=dark&no-frame=true&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=maheera421&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=maheera421&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=maheera421&icon=0&color=10)](https://visitcount.itsvg.in)
