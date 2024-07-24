@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩‍💻 I am a Software Engineer sharing about my journey in the advancing world of technology<br>🎓 I am currently studying Software Engineering at COMSATS University Islamabad, Lahore Campus.<br>🔭 I’m currently working on Machine Learning models.<br>🌱 I’m currently learning about regression models
+👩‍💻 I am a Software Engineer sharing about my journey in the advancing world of technology.<br>🎓 Studying Software Engineering at COMSATS University Islamabad, Lahore Campus.<br>🔭 Working on Machine Learning models.<br>🌱 I’m currently learning about regression models.
 
 
 ## 🌐 Socials:
