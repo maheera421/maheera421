@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Machine Learning models.
 - 🌱 I’m currently learning about regression models.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maheera421&show_icons=true&theme=radical)
+![Maheera's GitHub stats](https://github-readme-stats.vercel.app/api?username=maheera421&show_icons=true&theme=radical)
 
 
 
