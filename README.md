@@ -1,4 +1,3 @@
-![Maheera's GitHub stats](https://github-readme-stats.vercel.app/api?username=maheera421&show_icons=true&theme=radical)
 # 💫 About Me:
 👩‍💻 I am a Software Engineer sharing about my journey in the advancing world of technology<br>🎓 I am currently studying Software Engineering at COMSATS University Islamabad, Lahore Campus.<br>🔭 I’m currently working on Machine Learning models.<br>🌱 I’m currently learning about regression models
 
