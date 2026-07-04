@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩‍💻 I am a Software Engineer sharing about my journey in the advancing world of technology.<br>🎓 Studying Software Engineering at COMSATS University Islamabad, Lahore Campus.<br>🔭 Currently working on LLMs with Hugging Face Tranformers, LangChain and RAG (Retrieval-augmented generation).
+👩‍💻 I am a Software Engineer sharing about my journey in the advancing world of technology.
 
 
 ## 🌐 Socials:
@@ -14,5 +14,3 @@
 ![](https://streak-stats.demolab.com/?user=maheera421&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=maheera421&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=maheera421&icon=0&color=0)](https://visitcount.itsvg.in)
